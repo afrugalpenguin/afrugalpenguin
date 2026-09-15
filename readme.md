@@ -21,7 +21,6 @@ Tinkerer building dev tools by day and World of Warcraft addons by night.
 | [dkpbot](https://github.com/afrugalpenguin/dkpbot) | Python | Discord bot helper for Classic Loot Manager |
 | [slackteams](https://github.com/afrugalpenguin/slackteams) | TypeScript | Slack to Teams integration |
 | [statuspage](https://github.com/afrugalpenguin/statuspage) | TypeScript | Status page project |
-| [betterwagons](https://github.com/afrugalpenguin/betterwagons) | C# | Wagon utility project |
 
 ## WoW Addons
 
