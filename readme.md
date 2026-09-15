@@ -20,14 +20,13 @@ Tinkerer building dev tools by day and World of Warcraft addons by night.
 | [dbml-diff](https://github.com/afrugalpenguin/dbml-diff) | JavaScript | Structurally diff two DBML schema files - text, JSON, or an annotated visual diff for dbdiagram.io |
 | [dkpbot](https://github.com/afrugalpenguin/dkpbot) | Python | Discord bot helper for Classic Loot Manager |
 | [slackteams](https://github.com/afrugalpenguin/slackteams) | TypeScript | Slack to Teams integration |
-| [statuspage](https://github.com/afrugalpenguin/statuspage) | TypeScript | Status page project |
-| [betterwagons](https://github.com/afrugalpenguin/betterwagons) | C# | Wagon utility project |
+| [statuspage](https://github.com/afrugalpenguin/statuspage) | TypeScript | A simple status page |
 
 ## WoW Addons
 
 | Repo | Description |
 |---|---|
-| [castborn](https://github.com/afrugalpenguin/castborn) | Lightweight modular cast bar and debuff tracker for TBC Anniversary |
+| [castborn](https://github.com/afrugalpenguin/castborn) | Lightweight modular cast bar and debuff tracker for TBC Anniversary/Wow Classic |
 | [magetools](https://github.com/afrugalpenguin/magetools) | An addon to simplify the life and trials of a Mage |
 | [warlocktools](https://github.com/afrugalpenguin/warlocktools) | An addon to simplify the life of a Warlock |
 | [paladintools](https://github.com/afrugalpenguin/paladintools) | Utility addon for Paladins in TBC Anniversary |
