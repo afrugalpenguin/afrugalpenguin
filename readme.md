@@ -15,14 +15,14 @@ Tinkerer building dev tools by day and World of Warcraft addons by night.
 
 | Repo | Language | Description |
 |---|---|---|
-| [yourturn](https://github.com/afrugalpenguin/yourturn) | TypeScript | Single-user Teams assistant that digests channel messages needing your action into an Adaptive Card |
 | [betterwagons](https://github.com/afrugalpenguin/betterwagons) | C# | Farthest Frontier mod that rebalances wagon workshops, adding a Tier-4 Cart Depot and per-wagon assignments |
-| [spotdash](https://github.com/afrugalpenguin/spotdash) | Go | Windows tray agent serving a circular web UI to an Echo Spot kiosk shell |
 | [cosmos-mapper](https://github.com/afrugalpenguin/cosmos-mapper) | JavaScript | Azure Cosmos DB schema documentation generator with ERD diagrams |
 | [dbml-diff](https://github.com/afrugalpenguin/dbml-diff) | JavaScript | Structurally diff two DBML schema files - text, JSON, or an annotated visual diff for dbdiagram.io |
 | [dkpbot](https://github.com/afrugalpenguin/dkpbot) | Python | Discord bot helper for Classic Loot Manager |
 | [slackteams](https://github.com/afrugalpenguin/slackteams) | TypeScript | Slack to Teams integration |
+| [spotdash](https://github.com/afrugalpenguin/spotdash) | Go | Windows tray agent serving a circular web UI to an Echo Spot kiosk shell |
 | [statuspage](https://github.com/afrugalpenguin/statuspage) | TypeScript | Status page project |
+| [yourturn](https://github.com/afrugalpenguin/yourturn) | TypeScript | Single-user Teams assistant that digests channel messages needing your action into an Adaptive Card |
 
 ## WoW Addons
 
