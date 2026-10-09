@@ -22,6 +22,7 @@ Tinkerer building dev tools by day and World of Warcraft addons by night.
 | [slackteams](https://github.com/afrugalpenguin/slackteams) | TypeScript | Slack to Teams integration |
 | [spotdash](https://github.com/afrugalpenguin/spotdash) | Go | Windows tray agent serving a circular web UI to an Echo Spot kiosk shell |
 | [statuspage](https://github.com/afrugalpenguin/statuspage) | TypeScript | Status page project |
+| [vanish-teams](https://github.com/afrugalpenguin/vanish-teams) | TypeScript | Ephemeral end-to-end encrypted secret messages for Microsoft Teams |
 | [yourturn](https://github.com/afrugalpenguin/yourturn) | TypeScript | Single-user Teams assistant that digests channel messages needing your action into an Adaptive Card |
 
 ## WoW Addons
