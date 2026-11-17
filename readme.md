@@ -4,7 +4,13 @@ Tinkerer building dev tools by day and World of Warcraft addons by night.
 
 ## Languages & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)   
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
 
 ## Tools & Projects
 
