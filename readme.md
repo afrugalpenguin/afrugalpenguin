@@ -30,7 +30,8 @@ Tinkerer building dev tools by day and World of Warcraft addons by night.
 
 | Repo | Description |
 |---|---|
-| [castborn](https://github.com/afrugalpenguin/castborn) | Lightweight modular cast bar and debuff tracker for TBC Anniversary |
+| [castborn](https://github.com/afrugalpenguin/castborn) | Lightweight modular cast bar and debuff tracker for Wow Forever and TBC Anniversary |
+| [reverie](https://github.com/afrugalpenguin/reverie) | A cinematic screenshot mod for Wow Forever |
 | [magetools](https://github.com/afrugalpenguin/magetools) | An addon to simplify the life and trials of a Mage |
 | [warlocktools](https://github.com/afrugalpenguin/warlocktools) | An addon to simplify the life of a Warlock |
 | [paladintools](https://github.com/afrugalpenguin/paladintools) | Utility addon for Paladins in TBC Anniversary |
