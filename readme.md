@@ -10,6 +10,7 @@ Tinkerer building dev tools by day and World of Warcraft addons by night.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)   
 
 ## Tools & Projects
 
